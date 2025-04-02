@@ -1,5 +1,9 @@
 # Installation Guide
+Recommended IDE Setup
+VSCode + Volar (and disable Vetur).
 
+Customize configuration
+See Vite Configuration Reference.
 ## Frontend Setup
 
 1. use git or download here directly:
